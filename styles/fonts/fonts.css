@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'BoldFont';
+    src: url('./THE\ BOLD\ FONT\ -\ FREE\ VERSION\ -\ 2023.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Monocode';
+    src: url('./monocode-regular.ttf');
+    font-weight: 400;
+}
